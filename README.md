@@ -1,7 +1,3 @@
-Here's a ready-to-use README version for your minimalist portfolio website:
-
----
-
 # 🌐 Minimalist Portfolio Website
 
 Welcome to my minimalist portfolio website! ✨
@@ -31,7 +27,7 @@ Follow these steps to set up the project locally:
    cd your-portfolio-repo
    ```
 3. **Open `index.html` in your browser** or use a live server extension to view it.
-4. 
+   
 
 ## 📝 Feedback and Contributions
 
@@ -40,8 +36,8 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 ## 📬 Contact
 
 You can reach me via:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [your.email@example.com](snehilseenu@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/snehilseenu)
 
 ---
 
