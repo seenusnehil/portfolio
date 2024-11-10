@@ -14,6 +14,10 @@ This project showcases an elegantly designed, simple, and clean portfolio site. 
 ## 🚀 Tech Stack
 - HTML, CSS, JavaScript
 
+## 📸 Preview
+![Screenshot of Portfolio Website](./assets/preview.png)
+
+
 ## 🛠️ Getting Started
 
 Follow these steps to set up the project locally:
