@@ -8,7 +8,7 @@ This project showcases an elegantly designed, simple, and clean portfolio site. 
 
 - **Elegant Design**: A sleek and minimalist look, focusing on content without unnecessary elements.
 - **Responsive Layout**: Optimized for all devices, including desktops, tablets, and smartphones.
-- **Interactive Sections**: Smooth navigation between sections like Projects, About Me, and Contact.
+- **Interactive Sections**: Smooth navigation between sections like About Me, Projects, Experience and Contact.
 - **Fast and Lightweight**: Built with performance in mind, ensuring quick loading times and smooth browsing.
 
 ## 🚀 Tech Stack
