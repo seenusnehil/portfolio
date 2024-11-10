@@ -41,4 +41,4 @@ You can reach me via:
 
 ---
 
-This README version is structured to give visitors a clear understanding of your project and includes sections for setup, features, and contact details. Adjust the placeholders with your specific information!
+THE WORK IS STILL IN PROGRESS... WEBSITE WILL GO LIVE IN A FEW DAYS!
