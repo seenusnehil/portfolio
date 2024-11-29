@@ -262,3 +262,65 @@ section {
 
 /*ABOUT SECTION*/
 
+#about {
+    position: relative;
+}
+
+.about-containers {
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.about-details-container {
+    justify-content: center;
+    flex-direction: column;
+}
+
+.about-container,
+.about-details-container {
+    display: flex;
+}
+
+/* .about-pic {
+
+} */
+
+.arrow {
+    position: absolute;
+    right: -5rem;
+    bottom: 2.5rem;
+}
+
+.details-container {
+    padding: 1.5rem;
+    flex: 0 0 calc(50% - 1.5rem);
+    background: white;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-radius: 2rem;
+    border-color: rgb(163, 163, 163);
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .details-container {
+        flex: 0 0 100%; /* Each box takes full width on smaller screens */
+    }
+
+    .about-containers {
+        gap: 1rem; /* Reduce gap for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .details-container {
+        padding: 1rem; /* Adjust padding for smaller devices */
+    }
+
+    .about-containers {
+        margin-bottom: 1rem; /* Reduce bottom margin on very small screens */
+    }
+}
