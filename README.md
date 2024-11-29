@@ -2,7 +2,7 @@
 
 Welcome to my minimalist portfolio website! ✨
 
-This project showcases an elegantly designed, simple, and clean portfolio site. It’s created to highlight my skills, projects, and professional journey in a distraction-free, visually appealing way. With a focus on a seamless user experience, this site offers an intuitive layout for exploring my work.
+This project showcases an elegantly designed, simple, clean, and responsive portfolio site. It’s created to highlight my skills, projects, and professional journey in a distraction-free, visually appealing way. With a focus on a seamless user experience, this site offers an intuitive layout for exploring my work.
 
 ## 🎨 Features
 
