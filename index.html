@@ -15,6 +15,7 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href="https://snehilseenu.hashnode.dev/" target="_blank">Blogs</a></li>
                 <li><a href="#contact">Contact Me</a></li>
             </ul>
         </div>
@@ -31,6 +32,7 @@
                 <li><a href="#about" onclick="toggleMenu()">About</a></li>
                 <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
                 <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="https://snehilseenu.hashnode.dev/" target="_blank" onclick="toggleMenu()">Blogs</a></li>
                 <li><a href="#contact" onclick="toggleMenu()">Contact Me</a></li>
             </div>
         </div>
@@ -46,7 +48,7 @@
         <div class="section__text">
             <p class="section__text__p1">Hello World, I am</p>
             <h1 class="title">Snehil Seenu</h1>
-            <p class="section__text__p2">Machine Learning Developer</p>
+            <p class="section__text__p2">Software Developer</span></p>
             <div class="btn-container">
                 <button 
                 class="btn btn-color-2"
@@ -59,7 +61,7 @@
                 >Contact info
             </button>
             </div>
-            <div inputmode="socials-container">
+            <div id="socials-container">
                 <img 
                     src="./assets/linkedin.png" 
                     alt="My LinkedIn profile"
@@ -71,6 +73,7 @@
                     alt="My Github profile"
                     class="icon" 
                     onclick="location.href='https://www.github.com/seenusnehil/'"
+                    target="_blank"
                 />
 
             </div>
@@ -137,7 +140,8 @@
                 <div class="text-container">
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Hic quis reprehenderit et laborum, 
+                        Hic quis reprehenderit et laborum,Lorem ipsum dolor sit 
+                        amet consectetur adipisicing elit. Hic quis reprehenderit et laborum, 
                     </p>
                 </div>
             </div>
@@ -146,7 +150,7 @@
             src="./assets/arrow.png"
             alt="Arrow icon"
             class="icon arrow"
-            onclick="location.href='./#experience'"
+            onclick="smoothScrollTo('#experience')"
       />
     </section>
     <script src="script.js"></script>
